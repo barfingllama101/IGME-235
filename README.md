@@ -1,4 +1,4 @@
-# IGME-235
+# IGME-235 Proposal
 
  # Story
  Have you ever wanted to feed a cow? Of course you have. But here's the problem: the cow is hungry. And you've dropped the food. Collect the food you dropped and drop it in the cow's bowl before time runs out! 
