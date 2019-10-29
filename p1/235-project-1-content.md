@@ -14,7 +14,7 @@ WASD to move, click to get and place food
 ## Aesthetics
 2d pixel game much like Stardew Valley
 
-![Stardew Valley](stardewGamePlay.png "What I want it to look like (from the game Stardew Valley)")
+![Stardew Valley](../stardewGamePlay.png "What I want it to look like (from the game Stardew Valley)")
 
 ## Platform
 A web based game
